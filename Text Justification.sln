@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Text Justification", "Text Justification\Text Justification.csproj", "{CC2661F7-C8CC-4836-A8E7-C845AE59CCA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC2661F7-C8CC-4836-A8E7-C845AE59CCA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC2661F7-C8CC-4836-A8E7-C845AE59CCA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC2661F7-C8CC-4836-A8E7-C845AE59CCA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC2661F7-C8CC-4836-A8E7-C845AE59CCA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {280BE4F9-75DD-48E9-985F-B5D29EB90F98}
+	EndGlobalSection
+EndGlobal
